@@ -1,0 +1,11 @@
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.AssemblyReference.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+C:\Users\Rute\Documents\Faculdade\PL2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb

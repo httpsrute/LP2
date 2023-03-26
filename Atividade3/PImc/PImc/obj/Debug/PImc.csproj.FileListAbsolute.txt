@@ -1,0 +1,11 @@
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\bin\Debug\PImc.exe.config
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\bin\Debug\PImc.exe
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\bin\Debug\PImc.pdb
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.csproj.AssemblyReference.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.Properties.Resources.resources
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.csproj.GenerateResource.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.csproj.CoreCompileInputs.cache
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.exe
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.pdb
+C:\Users\Rute\Documents\Faculdade\PL2\PImc\PImc\obj\Debug\PImc.Form1.resources

@@ -1,0 +1,12 @@
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\bin\Debug\PMatrizes.exe.config
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\bin\Debug\PMatrizes.exe
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\bin\Debug\PMatrizes.pdb
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.AssemblyReference.cache
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.Form1.resources
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.Properties.Resources.resources
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.GenerateResource.cache
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.exe
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.pdb
+C:\Users\Rute\Documents\Faculdade\BeeCrowd\PMatrizes\PMatrizes\obj\Debug\PMatrizes.frmExercicio6.resources

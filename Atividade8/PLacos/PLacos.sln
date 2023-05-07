@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLacos", "PLacos\PLacos.csproj", "{468F35F7-6AD8-4DD3-907E-41B04D853368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468F35F7-6AD8-4DD3-907E-41B04D853368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468F35F7-6AD8-4DD3-907E-41B04D853368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468F35F7-6AD8-4DD3-907E-41B04D853368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468F35F7-6AD8-4DD3-907E-41B04D853368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90B951C-6E36-4840-9307-9B1CBE167F37}
+	EndGlobalSection
+EndGlobal

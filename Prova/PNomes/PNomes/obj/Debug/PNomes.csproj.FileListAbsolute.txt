@@ -1,0 +1,10 @@
+C:\Users\0030482121029\source\repos\PNomes\PNomes\bin\Debug\PNomes.exe.config
+C:\Users\0030482121029\source\repos\PNomes\PNomes\bin\Debug\PNomes.exe
+C:\Users\0030482121029\source\repos\PNomes\PNomes\bin\Debug\PNomes.pdb
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.csprojAssemblyReference.cache
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.Form1.resources
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.Properties.Resources.resources
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.csproj.GenerateResource.cache
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.csproj.CoreCompileInputs.cache
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.exe
+C:\Users\0030482121029\source\repos\PNomes\PNomes\obj\Debug\PNomes.pdb
